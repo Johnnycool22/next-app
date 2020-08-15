@@ -1,0 +1,26 @@
+{
+  "name": "next-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+    "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnnycool22/next-app.git"
+  },
+  "author": "John F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johnnycool22/next-app/issues"
+  },
+  "homepage": "https://github.com/Johnnycool22/next-app#readme",
+  "dependencies": {
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
