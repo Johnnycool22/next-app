@@ -1,9 +1,9 @@
 import React from 'react';
 
-const indexPage = () => (
+const authIndexPage = () => (
     <div>
-        <h1>The Main Page</h1>
+        <h1>The Auth Index Page</h1>
     </div>
 );
 
-export default indexPage;
+export default authIndexPage;
