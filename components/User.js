@@ -9,7 +9,7 @@ const user = (props) => (
                 border: 1px solid #eee;
                 box-shadow: 0 2p 3px #ccc;
                 padding: 20px;
-                text-align: centre;
+                text-align: center;
             }
         `}</style>
     </div>
